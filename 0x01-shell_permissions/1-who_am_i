@@ -1,2 +1,2 @@
 #!/bin/bash
-or whoami echo $USER cat /etc/passwd
+sudo bash
