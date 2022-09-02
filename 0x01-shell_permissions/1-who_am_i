@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 whoami
+=======
+echo "$USER"
+>>>>>>> 005ebcd16717b5a16d82b099519a79af103dc92f
