@@ -1,2 +1,2 @@
 #!/bin/bash
-or
+or whoami echo $USER cat /etc/passwd
