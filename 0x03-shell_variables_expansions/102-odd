@@ -1,2 +1,2 @@
 #!/bin/bash
-pert -lne 'print if $. 2== l' 
+pert -lne 'print if $. 2 == l' 
